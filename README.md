@@ -1,5 +1,8 @@
 # analogClock
 
+Simple analog clock created with HTML, JavaScript and CSS
+
+
 Initially, all are pointed towards 12
 h: number of hours
 m: number of minutes
